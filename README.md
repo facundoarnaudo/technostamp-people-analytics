@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project focuses on transforming raw HR data into actionable business insights for TechnoStamp Industries, a manufacturing company with 450 employees. The goal is to move from intuition-based HR decisions to a data-driven strategy, optimizing operational efficiency, talent retention, and workplace safety.
 
+> **🌐 Note on Language:** While this documentation and the executive summary are presented in English to reach a broader audience, the underlying dataset, Python code (variables/comments), and raw outputs are in Spanish, reflecting the real-world operational context of the company.
+
 ## 🎯 Business Problem
 The executive board needed clear answers to critical operational questions:
 * What is the true financial and operational cost of overtime?
